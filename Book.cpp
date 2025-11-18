@@ -18,4 +18,3 @@ void Book::printInfo() const {
          << " | Year: " << publicationYear
          << endl;
 }
-
